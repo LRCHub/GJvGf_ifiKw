@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ラスト・クリスマス",
+  "base_artist": "Wham!",
+  "createdAt": "2025-12-14T03:24:56.685864Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス 〜 赤鼻のトナカイ - BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_ラスト・クリスマス_〜_赤鼻のトナカイ_-_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ～ 赤鼻のトナカイ ( BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_ラスト・クリスマス_~_赤鼻のトナカイ_(_BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_O_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_ラスト・クリスマス_~_赤鼻のトナカイ_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano Caoli",
+      "has_synced": false,
+      "path": "select/04_ラスト・クリスマス_(Last_Christmas)_Cano_Caoli.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス (Last Christmas)",
+      "artist": "Cano, Caoli",
+      "has_synced": false,
+      "path": "select/05_ラスト・クリスマス_(Last_Christmas)_Cano,_Caoli.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス",
+      "artist": "Soul To The World",
+      "has_synced": false,
+      "path": "select/06_ラスト・クリスマス_Soul_To_The_World.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラスト・ クリスマス",
+      "artist": "Dario Daneluz",
+      "has_synced": false,
+      "path": "select/07_ラスト・_クリスマス_Dario_Daneluz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス / 赤鼻のトナカイ (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_ラスト・クリスマス___赤鼻のトナカイ_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ~ 赤鼻のトナカイ (BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\")",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_ラスト・クリスマス_~_赤鼻のトナカイ_(BLACKPINK_ARENA_TOUR_2018__SPECIAL_FINAL_IN_KYOCERA_DOME_OS_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラスト・クリスマス ～ 赤鼻のトナカイ",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_ラスト・クリスマス_~_赤鼻のトナカイ_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Christmas_Wham!.txt"
+    }
+  ]
+}
