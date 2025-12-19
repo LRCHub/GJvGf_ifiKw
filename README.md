@@ -1,87 +1,55 @@
-# Wham! – ラスト・クリスマス
+# BLACKPINK – ラスト・クリスマス 〜 赤鼻のトナカイ - BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away
-This year, to save me from tears
-I'll give it to someone special
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away (You gave it away)
-This year, to save me from tears
-I'll give it to someone special
-(Special)
-Once bitten and twice shy
-I keep my distance, but you
-still catch my eye
-Tell me baby, do you recognize
-me?
-Well, it's been a year, it
-doesn't surprise me
-Happy Christmas
-I wrapped it up and sent it
-With a note saying "I love you",
-I meant it
-Now I know what a fool I've been
-But if you kissed me now, I know
-you'd fool me again
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away (You gave it away)
-This year, to save me from tears
-I'll give it to someone special
-(Special)
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away
-This year, to save me from tears
-I'll give it to someone special
-(Special)
-Oh oh
-Oh oh baby
-A crowded room, friends with
-tired eyes
-I'm hiding from you and your
-soul of ice
-My god, I thought you were
-someone to rely on
-Me? I guess I was a shoulder to
-cry on
-A face on a lover with a fire in
-his heart
-A man under cover, but you tore
-me apart
-Ooh ooh, now I've found a real
-love
-You'll never fool me again
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away (You gave it away)
-This year, to save me from tears
-I'll give it to someone special
-(Special)
-Last Christmas, I gave you my
-heart
-But the very next day, you gave
-it away (You gave meaway)
-This year, to save me from tears
-I'll give it to someone special
-(Special)
-A face on a lover with a fire in
-his heart (I gave you mine)
-A man under cover, but you tore
-him apart
-Maybe next year, I'll give it to
-someone
-I'll give it to someone special
-Special
-So long
+```lrc
+[00:00.53] RS)皆さんこの曲知ってますか？
+[00:04.38] JN)Last Christmas〜
+[00:09.06] JS)わたしその曲知ってるよ それいいね！
+[00:19.56] 
+[00:40.94] Last Christmas
+[00:43.20] I gave you my heart
+[00:45.19] But the very next day
+[00:47.52] You gave it away
+[00:49.78] This year to save me from tears
+[00:54.15] I'll give it to someone specials
+[01:10.15] 
+[00:59.02] Last Christmas
+[01:01.21] I gave you my heart
+[01:03.02] But the very next day
+[01:05.49] You gave it away
+[01:07.77] This year to save me from tears
+[01:12.05] I'll give it to someone specials
+[01:28.05] 
+[01:16.85] Once bitten and twice shy
+[01:21.71] I keep my distance
+[01:23.55] But you still catch my eye
+[01:26.50] Tell me baby Do you recognise me?
+[01:30.38] Well It's been a year
+[01:32.86] It doesn't surprise me
+[01:43.86] 
+[01:34.98] Last Christmas
+[01:36.94] I gave you my heart
+[01:38.98] But the very next day
+[01:41.32] You gave it away
+[01:43.55] This year to save me from tears
+[01:48.16] I'll give it to someone specials
+[02:04.16] 
+[01:52.41] Last Christmas
+[01:55.05] I gave you my heart
+[01:57.15] But the very next day
+[01:59.43] You gave it away
+[02:01.88] This year to save me from tears
+[02:06.04] I'll give it to someone specials
+[02:22.04] 
+[02:53.99] 真っ赤なお鼻のトナカイさんは
+[02:59.32] いつもみんなのわらいもの
+[03:03.84] でもその年のクリスマスの日
+[03:08.88] サンタのおじさんはいいました
+[03:15.88] 
+[03:14.05] 暗い夜道はぴかぴかの
+[03:18.83] おまえの鼻が役に立つのさ
+[03:24.33] いつも泣いてたトナカイさんは
+[03:28.68] 今宵こそはとよろこびました
+[03:34.55] よろこびました
 ```
