@@ -1,50 +1,71 @@
-# BLACKPINK – ラスト・クリスマス / 赤鼻のトナカイ (Live)
+# Cano Caoli – ラスト・クリスマス (Last Christmas)
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:00.38] 皆さんこの歌 知ってますか？
-[00:04.15] Last Christmas, I gave you my heart
-[00:09.10] わたし知ってるよ それいいね！ ねえ
-[00:12.18] 皆さんも もちろん知ってますよね？
-[00:16.23] はい！ それでは皆さん みんなで歌いましょう
-[00:27.23] 
-[00:41.16] Last Christmas, I gave you my heart
-[00:45.10] But the very next day, you gave it away (you gave it away)
-[00:50.07] This year, to save me from tears
-[00:54.48] I'll give it to someone special
-[01:09.98] 
-[00:59.01] Last Christmas, I gave you my heart
-[01:03.07] But the very next day, you gave it away (you gave it away)
-[01:08.00] This year, to save me from tears
-[01:12.36] I'll give it to someone special
-[01:27.86] 
-[01:17.54] Once bitten and twice shy
-[01:21.75] I keep my distance, but you still catch my eye
-[01:26.57] Tell me, baby, do you recognize me?
-[01:30.87] Well, it's been a year, and it doesn't surprise me
-[01:55.87] 
-[01:34.94] Last Christmas, I gave you my heart
-[01:38.97] But the very next day, you gave it away (you gave it away)
-[01:44.07] This year, to save me from tears
-[01:48.18] I'll give it to someone special
-[02:03.68] 
-[01:52.93] Last Christmas, I gave you my heart (I gave you my heart)
-[01:56.93] But the very next day, you gave it away (you gave it away)
-[02:01.88] This year, to save me from tears
-[02:06.06] I'll give it to someone special
-[02:21.56] 
-[02:35.93] 一緒に歌いましょう (whoo)
-[02:43.93] 
-[02:53.77] 真っ赤なお鼻のトナカイさんは
-[02:58.82] いつもみんなの わらいもの
-[03:03.86] でもその年のクリスマスの日
-[03:08.80] サンタのおじさんはいいました
-[03:15.80] 
-[03:14.07] 暗い夜道はぴかぴかの
-[03:19.03] おまえの鼻が役に立つのさ
-[03:25.03] 
-[03:24.06] いつも泣いてたトナカイさんは
-[03:29.16] 今宵こそはとよろこびました
-[03:34.31] よろこびました
+```
+Last Christmas I gave you my heart
+But the very next day you gave it away
+This year, to save me from tears,
+I'll give it to someone special
+
+去年のクリスマス、君に僕の愛をささげた
+でもその翌日、君はそれを捨ててしまった
+今年はそんな思いをしないために
+別の特別な人にささげるよ
+Once bitten and twice shy
+I keep my distance
+But you still catch my eye
+Tell me, baby, do you recognize me?
+Well, it's been a year, it doesn't surprise me
+一度傷ついているから、二度目は用心するよ
+君とは距離を置いているけど
+でもつい君に目が行ってしまう
+教えてくれ、君は僕に気づいている？
+まあ、一年も経っているから無理もないよね
+I wrapped it up and sent it
+With a note saying, "I love you,"
+I meant it
+Now I know what a fool I've been.
+But if you kissed me now
+I know you'd fool me again.
+
+心をこめたプレゼントを包んで君に送った
+「愛してる」ってメッセージを添えて
+本気だったんだ
+今なら自分がなんてバカだったのか分かっているよ
+でも、今もし君が僕にキスしたら
+きっとまただまされるだろうな
+
+A crowded room
+Friends with tired eyes
+I'm hiding from you
+And your soul of ice
+My god I thought you were someone to rely on
+Me? I guess I was a shoulder to cry on
+
+部屋は混んでいて
+友人たちは眠そうな目をしている
+僕は君から隠れている
+氷のように冷たい君から
+君は信じられる人だと本当に思ったんだ
+僕は？多分ただの都合のいい相手だったんだろうね
+
+A face on a lover with a fire in his heart
+A man under cover but you tore me apart, ooh-hoo
+Now I've found a real love, you'll never fool me again
+
+顔には出さないけど心の中は恋に燃え上がっていた
+隠していたけど、君は僕をズタズタに引き裂いた
+今の僕は本物の愛を見つけたから、もう君にだまされることはないよ
+
+A face on a lover with a fire in his heart (I gave you my heart)
+A man under cover but you tore him apart
+Maybe next year I'll give it to someone
+I'll give it to someone special
+Special...
+
+顔には出さないけど心の中は恋に燃え上がっていた
+隠していたけど、君は僕をズタズタに引き裂いた
+来年は誰か特別な人にささげるよ
+特別な人に...
 ```
